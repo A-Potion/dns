@@ -973,7 +973,7 @@ strategize: # rez@proton.me U082KMLM7DW YSWS for 2026 internship submisions
   - 185.199.110.153
   - 185.199.111.153
 
-sunshine: # kacper@hackclub.com for 2026 Summer Internship
+sunshine: # kacper@hackclub.com
 - ttl: 600
   type: A
   value: 216.198.79.1
